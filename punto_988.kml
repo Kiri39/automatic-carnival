@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>punto_988.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>punto_988</name>
+		<LookAt>
+			<longitude>-78.49145701155066</longitude>
+			<latitude>LATITUD_AUI</latitude>
+			<altitude>0</altitude>
+			<heading>-8.360446126535367</heading>
+			<tilt>19.78162102870245</tilt>
+			<range>2706.953604613756</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-78.49145701155066,-0.23446538485586643</coordinates>
+		</Point>
+	</Placemark>
+	<name>ruta_64.kml</name>
+	<Style id="s_ylw-pushpin">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>8</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Ruta_Formato</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-78.4911571960982,-0.2346043785797417,0 -78.49104616735157,-0.23465496542007466,0 -78.49094398193412,-0.2347090371316305,0 -78.49082414733012,-0.23478450520306052,0 -78.49070791001256,-0.23486690554520284,0 -78.49065402565967,-0.23490868652814445,0 -78.4905799440424,-0.23496976545387976,0 -78.49056023391053,-0.23498670267745786,0 -78.49046243268586,-0.23507487366657154,0 -78.49038786393605,-0.23515588755457134,0 -78.49028931327675,-0.23528355375087823,0 -78.49027282571397,-0.23530626162142768,0 -78.4902214144955,-0.23538165474939057,0 -78.49017101501383,-0.23546420497846715,0 -78.49011536948949,-0.23556931319115892,0 -78.49007816005802,-0.23564901556848347,0 -78.49004829508635,-0.23572201050549724,0 -78.49000370372339,-0.23584488031990586,0 -78.48998845272783,-0.23589535474503806,0 -78.48996761844396,-0.23597471987676039,0 -78.48993839049176,-0.23614019505224942,0 -78.48993599230081,-0.23616837379590155,0 -78.48992887267143,-0.2363033095085229,0 -78.48993108350372,-0.2364905182894883,0 -78.48993910245471,-0.23658678317305526,0 -78.48994577242327,-0.236639880619538,0 -78.48996821799169,-0.23675997752566175,0 -78.49001071093758,-0.23694032897938197,0 -78.49004042602229,-0.23703704352375188,0 -78.49007467518679,-0.23712352828485445,0 -78.49011892930416,-0.23721582116466175,0 -78.49019057525877,-0.23734453656950896,0 -78.49030085457066,-0.23752346409735317,0 -78.49032108930683,-0.2375519051431403,0 -78.49040663727459,-0.2376647325329496,0 
+
+
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
