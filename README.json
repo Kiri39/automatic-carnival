@@ -1,1 +1,1 @@
-{"geometry": {"type": "Point", "coordinates": [8.4375,24.5271348225978]}, "type": "Feature", "properties": {}}
+{"geometry": {"type": "LineString", "coordinates": [[8.4375, 24.5271348225978], [36.2109375, 31.353636941500987], [35.5078125, 15.284185114076433], [15.8203125, 12.897489183755892]]}, "type": "Feature", "properties": {}}
