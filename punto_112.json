@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "scooter",
+        "id": "hola",
+        "label": "casa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.45500034280121,-0.1755389291793108]
+      }
+    }
+  ]
+}
